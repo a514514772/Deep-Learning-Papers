@@ -3,12 +3,12 @@
 A document of papers I've read and categorization of them
 
 ## Contents
-- [Generative Adversarial Nets (GANs)](#generative-adversarial-nets-(GANs))
+- [Generative Adversarial Nets (GANs)](#generative-adversarial-nets-gans)
 - [Autoencoders](#autoencoders)
   - [Adversarial Autoencoders and Its Extensions](#adversarial-autoencoders-and-its-extensions)
   - [Variational Autoencoders and Its Extensions](#variational-autoencoders-and-its-extensions)
 - [Theory](#theory)
-  - [Evidence Lower Bound (ELBO)](#evidence-lower-bound-(ELBO))
+  - [Evidence Lower Bound (ELBO)](#evidence-lower-bound-elbo)
 
 ## Generative Adversarial Nets (GANs)
 - Energy-Based Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1609.03126)
