@@ -5,7 +5,7 @@ A document of papers I've read and categorization of them
 ## Contents
 - [Generative Adversarial Nets (GANs)](#generative-adversarial-nets-(gans))
 - [Autoencoders](#Autoencoders)
-  - [Adversarial Autoencoders and Its Extensions](#Adversarial-Autoencoders-and-Its-Extensions)
+  - [Adversarial Autoencoders and Its Extensions](#adversarial-autoencoders-and-its-extensions)
   - [Variational Autoencoders and Its Extensions](#Variational-Autoencoders-and-Its-Extensions)
 - [Theory](#Theory)
   - [Evidence Lower Bound (ELBO)](#evidence-lower-bound-(elbo))
