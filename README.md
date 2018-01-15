@@ -11,12 +11,18 @@ A document of papers I've read and categorization of them
   - [Evidence Lower Bound (ELBO)](#evidence-lower-bound-elbo)
 
 ## Generative Adversarial Nets (GANs)
+- Generative Adversarial Nets [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+  - Goodfellow, Ian and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua. *NIPS'14*
+- Conditional generative adversarial nets [[pdf]](https://arxiv.org/pdf/1411.1784.pdf)
+  - Mirza, Mehdi and Osindero, Simon. *arXiv 1411*
 - Energy-Based Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1609.03126)
   - Junbo Zhao, Michael Mathieu, Yann LeCun. *arXiv 1609*
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[pdf]](http://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf)
   - Chen, Xi and Duan, Yan and Houthooft, Rein and Schulman, John and Sutskever, Ilya and Abbeel, Pieter. *NIPS'16*
 - Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1703.05192.pdf)
   - Kim, Taeksoo and Cha, Moonsu and Kim, Hyunsoo and Lee, Jungkwon and Kim, Jiwon. *arXiv 1703*
+- Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)
+  - Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A. *arXiv 1703*
 
 ## Autoencoders
 
