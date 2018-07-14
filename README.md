@@ -41,3 +41,8 @@ A document of papers I've read and categorization of them
 ### Evidence Lower Bound (ELBO)
 - Elbo Surgery: yet Another Way to Carve Up The Variational Evidence Lower Bound [[pdf]](http://approximateinference.org/accepted/HoffmanJohnson2016.pdf)
   - Hoffman, Matthew D and Johnson, Matthew J. *NIPS Workshop'16*
+  
+### TO-DO
+Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model
+Spectral Normalization for Generative Adversarial Networks
+self-attention GAN
