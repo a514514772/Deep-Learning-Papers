@@ -42,7 +42,7 @@ A document of papers I've read and categorization of them
 - Elbo Surgery: yet Another Way to Carve Up The Variational Evidence Lower Bound [[pdf]](http://approximateinference.org/accepted/HoffmanJohnson2016.pdf)
   - Hoffman, Matthew D and Johnson, Matthew J. *NIPS Workshop'16*
   
-### TO-DO
+## TO-DO
 - Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model
 - Spectral Normalization for Generative Adversarial Networks
 - self-attention GAN
@@ -50,4 +50,5 @@ A document of papers I've read and categorization of them
   - Saumya Jetley, Nicholas A. Lord, Namhoon Lee, Philip H.S. Torr. ICLR'18
 - Non-local Neural Networks [[pdf]](https://arxiv.org/abs/1711.07971)
   - Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. arXiv'17
-  
+- Structured Attention Networks [[pdf]](https://arxiv.org/abs/1702.00887)
+  - Yoon Kim, Carl Denton, Luong Hoang, Alexander M. Rush. ICLR'17
