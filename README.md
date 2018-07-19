@@ -43,6 +43,11 @@ A document of papers I've read and categorization of them
   - Hoffman, Matthew D and Johnson, Matthew J. *NIPS Workshop'16*
   
 ### TO-DO
-Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model
-Spectral Normalization for Generative Adversarial Networks
-self-attention GAN
+- Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model
+- Spectral Normalization for Generative Adversarial Networks
+- self-attention GAN
+- Learn To Pay Attention [[pdf]](https://arxiv.org/abs/1804.02391)
+  - Saumya Jetley, Nicholas A. Lord, Namhoon Lee, Philip H.S. Torr. ICLR'18
+- Non-local Neural Networks [[pdf]](https://arxiv.org/abs/1711.07971)
+  - Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. arXiv'17
+  
