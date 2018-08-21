@@ -37,6 +37,7 @@ A document of papers I've read and categorization of them
   - Larsen, Anders Boesen Lindbo and S{\o}nderby, S{\o}ren Kaae and Larochelle, Hugo and Winther, Ole. *arXiv 1512*
   
 ## Theory
+- 谷歌工程師：聊一聊深度學習的weight initialization [[link]](https://www.hksilicon.com/articles/1292771)
 
 ### Evidence Lower Bound (ELBO)
 - Elbo Surgery: yet Another Way to Carve Up The Variational Evidence Lower Bound [[pdf]](http://approximateinference.org/accepted/HoffmanJohnson2016.pdf)
