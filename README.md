@@ -53,3 +53,17 @@ A document of papers I've read and categorization of them
   - Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He. arXiv'17
 - Structured Attention Networks [[pdf]](https://arxiv.org/abs/1702.00887)
   - Yoon Kim, Carl Denton, Luong Hoang, Alexander M. Rush. ICLR'17
+- Benchmarking Neural Network Robustness to Common Corruptions and Perturbations [[pdf]](https://openreview.net/forum?id=HJz6tiCqYm)
+- Large Scale GAN Training for High Fidelity Natural Image Synthesis [[pdf]](https://openreview.net/forum?id=B1xsqj09Fm)
+- Generating High Fidelity Images With Subscale Pixel Networks and Multidimensional Upscaling [[pdf]](https://openreview.net/forum?id=HylzTiC5Km)
+- Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow [[pdf]](https://openreview.net/forum?id=HyxPx3R9tm)
+- Temporal Difference Variational Auto-Encoder [[pdf]](https://openreview.net/forum?id=S1x4ghC9tQ)
+- Towards Robust, Locally Linear Deep Networks [[pdf]](https://openreview.net/forum?id=SylCrnCcFX)
+- Learning Robust Representations by Projecting Superficial Statistics Out [[pdf]](https://openreview.net/forum?id=rJEjjoR9K7)
+- On the Minimal Supervision for Training Any Binary Classifier from Only Unlabeled Data [[pdf]](https://openreview.net/forum?id=B1xWcj0qYm)
+- Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://openreview.net/forum?id=Hyg_X2C5FX)
+- Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer [[pdf]](https://openreview.net/pdf?id=S1fQSiCcYm)
+- Approximability of Discriminators Implies Diversity in GANs [[pdf]](https://openreview.net/forum?id=rJfW5oA5KQ)
+- An analytic theory of generalization dynamics and transfer learning in deep linear networks [[pdf]](https://openreview.net/pdf?id=ryfMLoCqtQ)
+- Unsupervised Domain Adaptation for Distance Metric Learning [[pdf]](https://openreview.net/forum?id=BklhAj09K7)
+- Lagging Inference Networks and Posterior Collapse in Variational Autoencoders [[pdf]](https://openreview.net/forum?id=rylDfnCqF7)
