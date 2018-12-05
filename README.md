@@ -43,6 +43,10 @@ A document of papers I've read and categorization of them
 - Elbo Surgery: yet Another Way to Carve Up The Variational Evidence Lower Bound [[pdf]](http://approximateinference.org/accepted/HoffmanJohnson2016.pdf)
   - Hoffman, Matthew D and Johnson, Matthew J. *NIPS Workshop'16*
   
+## APSIPA-related
+- Generative Probabilistic Novelty Detection with Adversarial Autoencoders [[pdf]](Generative Probabilistic Novelty Detection with Adversarial Autoencoders)
+  - Stanislav Pidhorskyi · Ranya Almohsen · Gianfranco Doretto. NIPS'19
+  
 ## TO-DO
 - Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model
 - Spectral Normalization for Generative Adversarial Networks
